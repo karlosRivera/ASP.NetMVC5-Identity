@@ -122,3 +122,10 @@ C:\Users\Tridip\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplic
 C:\Users\Tridip\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.addfieldstoAspNetUsers.resources
 C:\Users\Tridip\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.Migrations.IsActiveColAdded.resources
 C:\Users\Tridip\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.Migrations.dbnamechanged.resources
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.Migrations.addfieldstoAspNetUsers.resources
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.Migrations.IsActiveColAdded.resources
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.csproj.GenerateResource.Cache
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.dll
+D:\download\misccode\misccode\ASP.NetMVC5-Identity\WebApplication1\obj\Debug\WebApplication1.pdb

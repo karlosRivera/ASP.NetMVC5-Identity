@@ -79,7 +79,7 @@ namespace WebApplication1.Controllers
             //var user = db.Users.Where(u => u.Email.Equals(model.Email)).Single(); // where db is ApplicationDbContext instance
 
             var user = await UserManager.FindByEmailAsync(model.Email);
-            if (user.IsActive == 0) { }
+            //if (user.IsActive == 0) { }
 
                 //if (user != null)
                 //{

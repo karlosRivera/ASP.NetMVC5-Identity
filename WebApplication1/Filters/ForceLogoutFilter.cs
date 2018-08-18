@@ -30,7 +30,7 @@ namespace WebApplication1.Filters
                 var UserManager = filterContext.HttpContext.GetOwinContext().GetUserManager<ApplicationUserManager>();
                 //var user = UserManager.FindByEmailAsync(HttpContext.Current.User.Identity.Name).Result; 
                 var user =  UserManager.FindByNameAsync(HttpContext.Current.User.Identity.Name).Result;
-
+                
                 if (user!=null && user.IsActive == 0)
                 {
                     AuthenticationManager.SignOut(DefaultAuthenticationTypes.ApplicationCookie);
